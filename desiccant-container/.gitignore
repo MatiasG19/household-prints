@@ -1,7 +1,3 @@
-# CAD
-*.stl
-*.3mf
-
 ## FreeCAD
 *.FCBak
 *.FCStd[0-9]
