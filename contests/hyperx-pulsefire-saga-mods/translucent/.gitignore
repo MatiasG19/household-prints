@@ -1,0 +1,13 @@
+# Freecad
+*.FCBak
+*.FCStd[0-9]
+*.FCStd[0-9][0-9]
+*.FCStd[0-9][0-9][0-9]
+*.FCStd[0-9][0-9][0-9][0-9]
+
+# Blender
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend5
